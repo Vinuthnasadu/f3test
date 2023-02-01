@@ -1,0 +1,15 @@
+*
+{
+    margin: 5px;
+    padding: 5px;
+}
+#container
+{
+    display: flex;
+}
+#submit-button
+{
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
